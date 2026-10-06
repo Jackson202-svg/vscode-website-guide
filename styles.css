@@ -1,0 +1,25 @@
+# VS Code Website Guide
+
+This project is a simple website that teaches beginners how to create a website in Visual Studio Code step by step.
+
+## Files
+
+- `index.html` – main page content
+- `styles.css` – styling for the site
+- `script.js` – small interactive enhancements
+
+## How to run
+
+Open `index.html` in a browser, or use a live preview extension in VS Code.
+
+## Project purpose
+
+The website covers:
+
+- Installing VS Code
+- Creating a project folder
+- Making `index.html`, `style.css`, and `script.js`
+- Styling and scripting a page
+- Previewing and publishing the website
+
+"}]} meyay  not valid JSON; maybe due to trailing weird text causing invalid syntax. Need redo carefully. Also ensure path updates, no invalid stray characters. Need produce valid JSON. Let's do simpler with single push_files call and valid JSON. We'll create all files with no weird text. Need no 
